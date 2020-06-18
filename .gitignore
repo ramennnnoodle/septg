@@ -25,6 +25,8 @@
 .vs/
 .vscode/
 
+.collabignore
+
 # Gradle cache directory
 .gradle/
 
